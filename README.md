@@ -1,2 +1,3 @@
-# featurized-verse
-An attempt to use rhymes as data features to identify lyricists
+# Featurized Verse
+
+An attempt to use rhymes as data features to identify lyricists. More to come...
